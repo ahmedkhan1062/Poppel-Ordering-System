@@ -1,0 +1,9 @@
+Order number 5584 picking list 
+
+
+Product ID: pd_0001
+Product Name: Pineapple Basket
+Category: Food
+Sub-category: Fruits
+
+
